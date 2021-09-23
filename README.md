@@ -5,4 +5,4 @@ Social Media Friend Recommendation based on mutal friends
 
 Shopping cart recommendation based on frequently purchased togteher items
 
-Kmeans Algoroithm on PySpark
+Kmeans Algorithm on PySpark
